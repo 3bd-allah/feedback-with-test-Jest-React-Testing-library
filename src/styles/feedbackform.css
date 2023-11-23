@@ -1,0 +1,15 @@
+
+.container h2 { 
+    /* display: flex; */
+    /* justify-content: start  ; */
+    /* align-items:flex-start; */
+    width: 65%;
+    border-bottom: 3px solid;
+}
+
+
+.score , .comment{
+    font-size: large;
+    font-weight: 500;
+}
+
